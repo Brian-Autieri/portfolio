@@ -14,13 +14,11 @@ Provide a short description explaining the what, why, and how of your project. U
 https://brian-autieri.github.io/portfolio/
 
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
 Users can view Brian's portfolio on mobile or desktop. Users can learn about Brian's background, view the projects he's built, contact him by phone or email and connect with him on LinkedIn.
+
+### Webpage Screenshot
 
 ![alt text](/assets/images/Portfolio_Screenshot.png)
 
