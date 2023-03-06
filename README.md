@@ -2,9 +2,9 @@
 
 ## Description
 
-The purpose of this project is to upload a portfolio showcasing Brian's projects so that potential employers can view the most important information in one place.
+The purpose of this project is to upload a portfolio showcasing Brian's projects so that users can view the most important information in one place.
 
-- This webpage gives users a way learn about Brian and his projects, view his education and work experience and provides several contact methods including phone number, email, GitHub and LinkedIn.
+- This webpage gives users a way learn about Brian and his projects, learn about his education and work experience vio the bio section and provides several contact methods including phone number, email, GitHub and LinkedIn.
 
 ### Webpage Link
 
