@@ -6,7 +6,7 @@ The purpose of this project was to create a portfolio so that users can view the
 
 - My name
 - A recent photograph
-- An "About ME" section that gives a brief, yet detailed description of my background and hobbies
+- An "About Me" section that gives a brief, yet detailed description of my background and hobbies
 - A "Work" section that currently has placeholder images/links to showcase future projects
 - A "Contact Me" section including my phone number, email, GitHub and LinkedIn
 
