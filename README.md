@@ -2,12 +2,12 @@
 
 ## Description
 
-The purpose of this project was to create a portfolio showcasing my projects so that users can view the most important information about me in one place. This webpage gives users a way learn about the projects I've built, my education and work experience and provides several ways to connect with me. It includes:
+The purpose of this project was to create a portfolio so that users can view the most important information about me in one place. This webpage gives users a way learn about the projects I've built, my education and work experience and provides several ways to connect with me. It includes:
 
 - My name
 - A recent photograph
 - An "About ME" section that gives a brief, yet detailed description of my background and hobbies
-- A "Work" section that currently has placeholder images/links for future projects
+- A "Work" section that currently has placeholder images/links to showcase future projects
 - A "Contact Me" section including my phone number, email, GitHub and LinkedIn
 
 ### Webpage Link
