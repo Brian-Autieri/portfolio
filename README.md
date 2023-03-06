@@ -2,18 +2,17 @@
 
 ## Description
 
-The purpose of this project is to upload a portfolio showcasing Brian's projects so that users can view the most important information in one place.
+The purpose of this project was to create a portfolio showcasing my projects so that users can view the most important information about me in one place. This webpage gives users a way learn about the projects I've built, my education and work experience and provides several ways to connect with me. It includes:
 
-- This webpage gives users a way learn about Brian and his projects, learn about his education and work experience vio the bio section and provides several contact methods including phone number, email, GitHub and LinkedIn.
+- My name
+- A recent photograph
+- An "About ME" section that gives a brief, yet detailed description of my background and hobbies
+- A "Work" section that currently has placeholder images/links for future projects
+- A "Contact Me" section including my phone number, email, GitHub and LinkedIn
 
 ### Webpage Link
 
 https://brian-autieri.github.io/portfolio/
-
-
-## Usage
-
-Users can view Brian's portfolio on mobile or desktop. Users can learn about Brian's background, view the projects he's built, contact him by phone or email, view his GitHub page and connect with him on LinkedIn.
 
 ### Webpage Screenshot
 
