@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project was to create a portfolio so that users can view the most important information about me in one place. This webpage gives users a way learn about the projects I've built, my education and work experience and provides several ways to connect with me. It includes:
+The purpose of this project was to create a portfolio so that users can view the most important information about me in one place. This webpage gives users a way to learn about the projects I've built, my education and work experience and provides several ways to connect with me. It includes:
 
 - My name
 - A recent photograph
@@ -20,7 +20,7 @@ https://brian-autieri.github.io/portfolio/
 
 ## Credits
 
-This challenge was completed in collaboration with the instructional staff, tutor and classmates in the February 2023 UCLA Coding Boot Camp.
+This challenge was completed in collaboration with the instructional staff, TA, tutor and classmates in the February 2023 UCLA Coding Boot Camp.
 
 ## License
 
