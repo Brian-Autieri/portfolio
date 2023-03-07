@@ -44,6 +44,8 @@ header nav ul li a {
     text-decoration: none;
 }
 
+/* Added "hero" image at the top of the webpage.  */
+
 figure {
     height: 200px;
     width: 100%;
@@ -51,6 +53,8 @@ figure {
     background-size: cover;
     background-position: center;
 }
+
+/* Subtitle placed over hero image */
 
 figure h2 {
     display: flex;
@@ -66,6 +70,8 @@ figure h2 {
 main {
     background-color: rgb(241, 230, 230);
 }
+
+/* Placed  portrait next to bio text */
 
 img {
     float: right;
@@ -125,6 +131,8 @@ div h3 {
     margin-top: 100px;
 }
 
+/* Added placeholder images to the work section. These are hyperlinked and will redirect to my projects in the future. */
+
 #surf {
     background-image: url(../images/img1.jpg);
     background-size: cover;
@@ -154,6 +162,8 @@ div h3 {
     background-size: cover;
     background-position: center;
 }
+
+/* Added contact information - phone number, email, GitHub, LinkedIn */
 
 address ul li {
     display: inline-flex;
