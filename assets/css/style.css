@@ -135,13 +135,13 @@ div h3 {
 /* Added placeholder images to the work section. These are hyperlinked and will redirect to my projects in the future. */
 
 #surf {
-    background-image: url(../images/img1.png);
+    background-image: url(../images/bdsm.png);
     background-size: cover;
     background-position: center;
 }
 
 #led {
-    background-image: url(../images/img2.jpg);
+    background-image: url(../images/img1.png);
     background-size: cover;
     background-position: center;
 }
