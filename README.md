@@ -16,7 +16,7 @@ https://brian-autieri.github.io/portfolio/
 
 ### Webpage Screenshot
 
-![alt text](/assets/images/updated_portfolio.png)
+![alt text](/assets/images/portfolio_update.png)
 
 ## Credits
 
