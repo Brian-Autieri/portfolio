@@ -33,7 +33,7 @@ header nav ul {
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    text-decoration: 2px underline #17bfd2;
+    text-decoration: none;
 }
 
 header nav ul li {
